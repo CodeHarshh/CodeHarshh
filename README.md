@@ -51,7 +51,5 @@
 </p>
 
 
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api/Harsh_Kumar_04" alt="Harsh's LeetCode Stats">
-</p>
+![](https://leetcard.Harsh_Kumar_04/lapor?ext=heatmap)
 
