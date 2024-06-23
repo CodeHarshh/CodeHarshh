@@ -1,9 +1,10 @@
-<h1 aling="center"> Hi! I'm Harsh <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<h1 align="center"> Hi! I'm Harsh <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="60%" height="60%">
 
 <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" height="60%" /> About me </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" height="60%"  position: relative;
+    top: 10px; /> About me </h2>
 
 <ul>
   <li> 🎓 3rd Year CSE student </li>
