@@ -14,7 +14,8 @@
 </ul>
 
 <br/>
-<h2>Languages and Tools</h2>[![My Skills]([BASE_URL]i=c,cpp,html,css,javascript,react,node.js,exprees.js,postgresql)
+<h2>Languages and Tools</h2>
+[![My Skills]([BASE_URL]i=c,cpp,html,css,javascript,react,node.js,exprees.js,postgresql)
 
 <br/>
 <br/>
