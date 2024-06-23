@@ -26,7 +26,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
+<p align="">
   <a href="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5" alt="Skills"/>
   </a>
@@ -34,10 +34,10 @@
 
 <hr>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=dark" alt="Harsh's GitHub Stats">
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&theme=dark" alt="Top Languages">
 </p>
