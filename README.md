@@ -11,7 +11,8 @@
   <a href="mailto:harshkumar01117@gmail.com">📫 How to reach me: harshkumar01117@gmail.com</a>
 </p>
 ***
-<h3 align="center">Connect with me:</h3>
+**⚙️ &nbsp;Connect with me:**
+
 <br>
 <p align="center">
   <a href="https://github.com/harshkumar01117">
