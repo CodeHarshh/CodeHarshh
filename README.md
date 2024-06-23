@@ -1,7 +1,13 @@
 <h1  align="center"> Hi! I'm Harsh <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  width="100%" height="20%">
+<style>
+  .cropped-image {
+    clip-path: inset(10px 0 0 0); /* top right bottom left */
+  }
+</style>
 
-<img align="right" margin-top="10px" width="50%" height="30%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
+<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" class="cropped-image">
+
+<img align="right" margin-top="10px" display="a width="50%" height="30%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> About me </h2>
 
