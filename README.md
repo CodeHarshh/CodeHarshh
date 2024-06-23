@@ -5,21 +5,25 @@
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> About me </h2>
 
 <ul>
-  <li> 💻 I'm Front End Developer </li>
-  <li> 🧠 Currently learning NextJS | NodeJS | SQL</li>
+  <li> 🎓 3rd Year CSE student </li>
+  <li> 💻 Full Stack Developer </li>
+  <li> 🌱 Currently learning AI | ML </li>
+  <li> 🧠 Proficient in C | C++ | HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | React </li>
   <li> 😍 Love Beats + Coding </li>
   <li> 😆 Pronouns: He/Him </li>
 </ul>
 
 <br/>
 <h2>Languages and Tools</h2>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nextjs-logo.svg"></code>
-<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/redux-logo.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/figma-logo.png"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/C.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/cpp.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/html5.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/css3.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/javascript.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nodejs.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/express.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/mongodb.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/react.svg"></code>
 
 <br/>
 <br/>
