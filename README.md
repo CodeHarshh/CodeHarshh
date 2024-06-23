@@ -14,16 +14,7 @@
 </ul>
 
 <br/>
-<h2>Languages and Tools</h2>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/C.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/cpp.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/html5.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/css3.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/javascript.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nodejs.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/express.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/mongodb.svg"></code>
-<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/react.svg"></code>
+<h2>Languages and Tools</h2>[![My Skills]([BASE_URL]i=c,cpp,html,css,javascript,react,node.js,exprees.js,postgresql)
 
 <br/>
 <br/>
