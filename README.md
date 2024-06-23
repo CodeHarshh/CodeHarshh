@@ -49,7 +49,7 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/harshkumar01117/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-k-49ab9023b/" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: harshkumar01117@gmail.com" target="_blank">
