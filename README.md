@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.vecteezy.com/photo/25470838-professional-esports-gamer-rejoices-in-the-victory-and-gold-game-room-background-ai-generated" width="600" alt="Developer">
-</p>
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 
