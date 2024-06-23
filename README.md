@@ -10,8 +10,8 @@
   <a href="mailto:harshkumar01117@gmail.com">📫 How to reach me: harshkumar01117@gmail.com</a>
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align=" ">Connect with me:</h3>
+<p align=" ">
   <a href="https://github.com/harshkumar01117">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
@@ -29,21 +29,21 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align=" ">Languages and Tools:</h3>
+<p align="  ">
   <a href="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5" alt="Skills"/>
   </a>
 </p>
 
-<p align="center">
+<p align="  ">
   <img src="https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=dark" alt="Harsh's GitHub Stats">
 </p>
 
-<p align="center">
+<p align=" ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&theme=dark" alt="Top Languages">
 </p>
 
-<p align="center">
+<p align=" ">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar01117" alt="GitHub Streak" style="max-width: 100%;">
 </p>
