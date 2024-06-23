@@ -1,39 +1,49 @@
-<img src="[https://www.vecteezy.com/photo/25470838-professional-esports-gamer-rejoices-in-the-victory-and-gold-game-room-background-ai-generated](https://images.unsplash.com/photo-1616588589676-62b3bd4ff6d2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z2FtaW5nJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D)" />
+<p align="center">
+  <img src="https://www.vecteezy.com/photo/25470838-professional-esports-gamer-rejoices-in-the-victory-and-gold-game-room-background-ai-generated" width="600" alt="Professional eSports Gamer">
+</p>
 
- <h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: harshkumar01117@gmail.com
+<p align="center">I'm currently learning Python 🌱 and enjoying my teenage years!</p>
 
-- ⚡ Fun fact: I'm comming to teen
-  
-### Connect with me:
-<div id="badges">
+<p align="center">
+  <a href="mailto:harshkumar01117@gmail.com">📫 How to reach me: harshkumar01117@gmail.com</a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://github.com/harshkumar01117">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="#">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</p>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5)](https://skillicons.dev)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5" alt="Skills"/>
+  </a>
+</p>
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=dark" alt="Harsh's GitHub Stats">
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&theme=dark" alt="Top Languages">
+</p>
 
-
-<br>
-<img align="center" src="https://camo.githubusercontent.com/81844d048a05840fdeee78197dfda39710bce281270cfd8aeecda6e2307eb203/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616e7572616772616a313126" alt="harshkumar01117" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar01117&amp;" style="max-width: 100%;">
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar01117" alt="GitHub Streak" style="max-width: 100%;">
+</p>
