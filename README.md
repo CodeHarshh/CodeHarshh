@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: harshkumar01117@gmail.com
-- 😄 My website: https://thetechbrothers.net
+
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
