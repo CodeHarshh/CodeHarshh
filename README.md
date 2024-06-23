@@ -1,4 +1,4 @@
-<img src="[https://www.vecteezy.com/photo/23880291-computer-sitting-on-top-of-a-desk-next-to-a-window-generative-ai](https://www.vecteezy.com/photo/25470838-professional-esports-gamer-rejoices-in-the-victory-and-gold-game-room-background-ai-generated)" />
+<img src="https://www.vecteezy.com/photo/25470838-professional-esports-gamer-rejoices-in-the-victory-and-gold-game-room-background-ai-generated" />
 
  <h1 align="center">Hi 👋, I'm Harsh</h1>
 
