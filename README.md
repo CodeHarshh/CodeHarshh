@@ -28,7 +28,7 @@
 
 <p align="">
   <a href="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=10" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=16" alt="Skills"/>
   </a>
 </p>
 
