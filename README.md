@@ -15,8 +15,7 @@
 
 <br/>
 <h2>Languages and Tools</h2>
-[![My Skills]([BASE_URL]i=c,cpp,html,css,javascript,react,node.js,exprees.js,postgresql)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,html,css,javascript,nodejs,express,react,postgresql&titles=true)
 <br/>
 <br/>
 
