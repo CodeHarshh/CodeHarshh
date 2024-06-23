@@ -12,6 +12,7 @@
 </p>
 
 <h3 align="center">Connect with me:</h3>
+<br>
 <p align="center">
   <a href="https://github.com/harshkumar01117">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
