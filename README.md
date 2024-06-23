@@ -47,3 +47,6 @@
 <p align=" ">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar01117" alt="GitHub Streak" style="max-width: 100%;">
 </p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
