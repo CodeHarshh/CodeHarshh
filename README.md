@@ -8,7 +8,7 @@
   <li> 🎓 3rd Year CSE student </li>
   <li> 💻 Full Stack Developer </li>
   <li> 🌱 Currently learning AI | ML </li>
-  <li> 🧠 Proficient in C | C++ | HTML | CSS | JavaScript | Node.js | Express.js | MongoDB | React </li>
+  <li> ✌️ Trying and exploring new stuff </li>
   <li> 😍 Love Beats + Coding </li>
   <li> 😆 Pronouns: He/Him </li>
 </ul>
