@@ -46,12 +46,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&theme=dark" alt="Top Languages">
 </p>
 
-<p align=" ">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar01117" alt="GitHub Streak" style="max-width: 100%;">
-</p>
-
-<p align="center">
-    <img src="https://leetcode-stats-six.vercel.app/api/harshkumar01117?cardType=leetcode&theme=dark" alt="Harsh's LeetCode Stats">
-  </a>
-</p>
+[![Harsh_Kumar_04's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Harsh_Kumar_04&theme=dark)](https://github.com/Harsh_Kumar_04/leetcode-stats)
 
