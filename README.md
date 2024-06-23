@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:harshkumar01117@gmail.com">📫 How to reach me: harshkumar01117@gmail.com</a>
 </p>
-
+***
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
-
+***
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5">
