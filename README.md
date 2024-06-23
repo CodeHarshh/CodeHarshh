@@ -1,45 +1,70 @@
+<h1> Hi! I'm Harsh <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> About me </h2>
 
+<ul>
+  <li> 💻 I'm Front End Developer </li>
+  <li> 🧠 Currently learning NextJS | NodeJS | SQL</li>
+  <li> 😍 Love Beats + Coding </li>
+  <li> 😆 Pronouns: He/Him </li>
+</ul>
 
-<p align="center">I'm currently learning Python 🌱 and enjoying my teenage years!</p>
+<br/>
+<h2>Languages and Tools</h2>
+<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/React.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Typescript.svg"></code>
+<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/nextjs-logo.svg"></code>
+<code><img width="43" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/redux-logo.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/git.svg"></code>
+<code><img width="40" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/figma-logo.png"></code>
+
+<br/>
+<br/>
+
+<hr>
+
+<details open="">
+<summary>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+  <span>GitHub Stats</span>
+</summary>
+<br>
 
 <p align="center">
-  <a href="mailto:harshkumar01117@gmail.com">📫 How to reach me: harshkumar01117@gmail.com</a>
+  <a href="https://github.com/harshkumar01117" target="_blank">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=react&rank_icon=github" alt="Harsh's Stats" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&layout=compact&theme=react" alt="Most Used Languages" />
+  </a>
 </p>
+</details>
+<br>
 
-<hr>
-
-<h3 align="center">Connect with me:</h3>
+<h2>
+  Connect with Me
+  <a target="_blank">
+    <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
+  </a>
+</h2>
 
 <p align="center">
-  <a href="https://github.com/harshkumar01117">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <br>
+  <a href="https://www.linkedin.com/in/harshkumar01117/" target="_blank">
+    <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
-  <!-- Replace the Instagram, Facebook, YouTube, and Twitter icons with LeetCode -->
-  <a href="https://leetcode.com/u/Harsh_Kumar_04/">
-    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  <a href="mailto: harshkumar01117@gmail.com" target="_blank">
+    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
 </p>
+<br/>
 
 <hr>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="">
-  <a href="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=5">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,nodejs,expressjs,github,git,postman,xd&perline=16" alt="Skills"/>
-  </a>
-</p>
+<h3>Thanks for Visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
 
 <hr>
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=dark" alt="Harsh's GitHub Stats">
-</p>
-
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&theme=dark" alt="Top Languages">
-</p>
+<h4>Created By: <a href="https://github.com/harshkumar01117">Harsh</a></h4>
+<p>Last Edited On: 24th June 2024</p>
