@@ -51,5 +51,5 @@
 </p>
 
 
-![](https://leetcard.Harsh_Kumar_04/lapor?ext=heatmap)
+[![Leetcode Stats](https://leetcard.Harsh_Kumar_04.cool/lapor?ext=heatmap)](https://leetcard.Harsh_Kumar_04.cool/lapor?ext=heatmap)
 
