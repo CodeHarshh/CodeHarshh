@@ -3,7 +3,7 @@
 
 <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> About me </h2>
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" height="60%" /> About me </h2>
 
 <ul>
   <li> 🎓 3rd Year CSE student </li>
