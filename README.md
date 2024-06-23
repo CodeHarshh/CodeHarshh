@@ -1,6 +1,8 @@
-![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
+
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
+
 
 <p align="center">I'm currently learning Python 🌱 and enjoying my teenage years!</p>
 
