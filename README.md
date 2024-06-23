@@ -51,7 +51,6 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcard.jacoblin.cool/Harsh_Kumar_04?theme=light&font=Glegoo">
     <img src="https://leetcode-stats-six.vercel.app/api/harshkumar01117?cardType=leetcode&theme=dark" alt="Harsh's LeetCode Stats">
   </a>
 </p>
