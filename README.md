@@ -1,4 +1,4 @@
-<img src=https://4kwallpapers.com/graphics-cgi/lofi-boy-neon-art-15155.html / >
+<img src="https://www.vecteezy.com/photo/23880291-computer-sitting-on-top-of-a-desk-next-to-a-window-generative-ai" / >
  
  <h1 align="center">Hi 👋, I'm Harsh</h1>
 
