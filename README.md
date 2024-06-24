@@ -3,14 +3,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="40%" height="70%">
 
 
-<div style="width: 50%; height: auto; overflow: hidden; clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%); float: right;">
-  <img align="right" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" style="width: 50%; height: auto;">
-</div>
+
 <!-- <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="50%" height="auto"  clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%)>  -->
 
 
 
-<!-- <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="25px" height="25px"> -->
+ <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="25px" height="25px"> 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" height=""  position: relative;
     top: 10px;   /> About me </h2>
 
