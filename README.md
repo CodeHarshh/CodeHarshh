@@ -1,11 +1,12 @@
-<h1 align="center"> Hi! I'm Harsh <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="40%" height="70%">
-
-  .cropped-image {
+  <style> .cropped-image {
     width: 50%; /* Set the desired width */
     height: auto; /* Maintain aspect ratio */
     clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%);
-  }
+  }</style>
+  <h1 align="center"> Hi! I'm Harsh <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="40%" height="70%">
+
+
 <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="25px" height="25px" class="cropped-image">
 
 
