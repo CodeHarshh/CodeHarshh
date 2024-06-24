@@ -4,7 +4,7 @@
 
 
 <div style="width: 50%; height: auto; overflow: hidden; clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%); float: right;">
-  <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" style="width: 100%; height: auto;">
+  <img align="right" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" style="width: 100%; height: auto;">
 </div>
 <!-- <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="50%" height="auto"  clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%)>  -->
 
