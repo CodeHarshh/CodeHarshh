@@ -8,7 +8,7 @@
 
 
 
- <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="25px" height="25px"> 
+ <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="80%" height="50%"> 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" height=""  position: relative;
     top: 10px;   /> About me </h2>
 
