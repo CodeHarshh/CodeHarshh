@@ -6,7 +6,7 @@
 
 <!-- <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="50%" height="auto"  clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%)>  -->
 <div>
-<div display="flex" top="20%"> 
+<div display="flex" margin-top="20%"> 
    <img align="right"  src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="40%" height="60%"> 
 
 </div>
