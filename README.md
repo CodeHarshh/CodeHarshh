@@ -6,7 +6,7 @@
 
 <!-- <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="50%" height="auto"  clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%)>  -->
 
-
+ <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="80%" height="50%"> 
 
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" height=""  position: relative;
@@ -15,7 +15,7 @@
 <ul>
   <li> 🎓 3rd Year CSE student </li>
   <li> 💻 Full Stack Developer </li>
-  <li> 🌱 Currently learning AI | ML </li>  <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="80%" height="50%"> 
+  <li> 🌱 Currently learning AI | ML </li> 
   <li> ✌️ Trying and exploring new stuff </li>
   <li> 😍 Love Beats + Coding </li>
   <li> 😆 Pronouns: He/Him </li>
