@@ -9,11 +9,8 @@
 
 <!-- <img align="right" width="50%" height="60%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="50%" height="auto"  clip-path: polygon(0% 20%, 100% 20%, 100% 80%, 0% 80%)>  -->
 <div>
-<div display="flex" margin-top="20%"> 
-   <img align="right"  src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="40%" height="60%"> 
-
-</div>
-</div>
+<div display="flex" > 
+   <img align="right" margin-top="20%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif" width="40%" height="30%"> 
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24" height=""  position: relative;
     top: 10px;   /> About me </h2>
@@ -26,6 +23,10 @@
   <li> 😍 Love Beats + Coding </li>
   <li> 😆 Pronouns: He/Him </li>
 </ul>
+</div>
+</div>
+
+
 
 <br/>
 <h2>Languages and Tools</h2>
