@@ -55,12 +55,14 @@
 </details>
 <br>
 
+
 <h2>
   Connect with Me
   <a target="_blank">
     <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" height="25px" style="max-width:100%;">
   </a>
 </h2>
+
 
 <p align="center">
   <br>
@@ -69,6 +71,10 @@
   </a>
   <a href="mailto: harshkumar01117@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
+  </a>
+    </a>
+  <a href="mailto: https://leetcode.com/u/Harsh_Kumar_04/" target="_blank">
+    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/leetcode.png"/></code>
   </a>
 </p>
 <br/>
