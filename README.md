@@ -42,10 +42,32 @@
 <details open="">
 <summary>
   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+  <span>Leetcode Stats</span>
+</summary>
+<br>
+
+
+  <div align="center">
+    <img src="https://leetcard.jacoblin.cool/Harsh_Kumar_04?theme=unicorn" alt="LeetCode Stats">
+</div>
+
+
+
+</details>
+<hr>
+
+
+
+
+
+<details open="">
+<summary>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
   <span>GitHub Stats</span>
 </summary>
 <br>
 
+  
 <p align="center">
   <a href="https://github.com/harshkumar01117" target="_blank">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=react&rank_icon=github" alt="Harsh's Stats" />
@@ -53,9 +75,8 @@
   </a>
 </p>
 </details>
+<hr>
 <br>
-
-
 <h2>
   Connect with Me
   <a target="_blank">
@@ -73,9 +94,7 @@
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
     </a>
-  <a href="mailto: https://leetcode.com/u/Harsh_Kumar_04/" target="_blank">
-    <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/leetcode.png"/></code>
-  </a>
+ 
 </p>
 <br/>
 
