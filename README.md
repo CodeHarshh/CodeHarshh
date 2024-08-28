@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=harshkumar01117)
+![](https://komarev.com/ghpvc/?username=CodeHarshh)
   <h1 align="center"> Hi! I'm Harsh <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="40%" height="70%"> -->
 
@@ -71,9 +71,9 @@
 
   
 <p align="center">
-  <a href="https://github.com/harshkumar01117" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=harshkumar01117&show_icons=true&theme=react&rank_icon=github" alt="Harsh's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar01117&layout=compact&theme=react" alt="Most Used Languages" />
+  <a href="https://github.com/CodeHarshh" target="_blank">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CodeHarshh&show_icons=true&theme=react&rank_icon=github" alt="Harsh's Stats" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeHarshh&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
@@ -89,10 +89,10 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/harshkumar01117/" target="_blank">
+  <a href="https://www.linkedin.com/in/CodeHarshh/" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
-  <a href="mailto: harshkumar01117@gmail.com" target="_blank">
+  <a href="mailto: CodeHarshh@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/gmail.png"/></code>
   </a>
     </a>
@@ -106,5 +106,5 @@
 
 <hr>
 
-<h4>Created By: <a href="https://github.com/harshkumar01117">Harsh</a></h4>
+<h4>Created By: <a href="https://github.com/CodeHarshh">Harsh</a></h4>
 
