@@ -19,7 +19,7 @@
 
 
 <ul>
-  <li> 🎓 3rd Year CSE student </li>
+  <li> 🎓 4th Year CSE student </li>
   <li> 💻 Full Stack Developer </li>
   <li> 🌱 Currently learning AI | ML </li> 
   <li> ✌️ Trying and exploring new stuff </li>
